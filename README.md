@@ -1,13 +1,10 @@
 # minigin
 基于gin开发的MVC微型Go框架～
 
-
 ## 目录结构
 minigin
 ├── conf // 项目配置
-
 │   └── app.ini
-
 ├── controllers // Controller控制层
 │   ├── activity.go
 │   ├── controller.go
