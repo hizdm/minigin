@@ -5,7 +5,9 @@
 ## 目录结构
 minigin
 ├── conf // 项目配置
+
 │   └── app.ini
+
 ├── controllers // Controller控制层
 │   ├── activity.go
 │   ├── controller.go
