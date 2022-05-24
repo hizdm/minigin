@@ -1,7 +1,6 @@
 package routers
 
 import (
-	"fmt"
 	"minigin/controllers"
 	"minigin/library/middleware"
 
