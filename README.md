@@ -2,7 +2,7 @@
 基于gin开发的MVC微型Go框架～
 
 ## 目录结构
-···
+```
 minigin
 ├── conf // 项目配置
 │   └── app.ini
@@ -47,4 +47,4 @@ minigin
 ├── templates // 模版文件
 │   └── index.html
 └── tmp // Air相关日志与产出
-···
+```
