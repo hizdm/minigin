@@ -7,7 +7,7 @@ minigin
 ├── conf // 项目配置
 │   └── app.ini
 ├── controllers // Controller控制层
-│   ├── activity.go
+│   ├── activity.go // 秒杀活动demo控制层
 │   ├── controller.go
 │   └── sonbusiness // 按业务分Controller控制层
 │       └── index.go
